@@ -1,0 +1,15 @@
+body {
+
+    border: 400px;
+    border-radius: 300px;
+    border-color: black;
+    background-color: white;
+}
+
+.produtos {
+
+    border: 200px;
+    border-radius: 100px;
+    border-color: black;
+    background-color: white ;
+}
